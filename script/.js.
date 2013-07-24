@@ -7,7 +7,7 @@
   </head>
   <body>
     <div id='main'>
-      whatever man
+      window.onload = ()-> alert "this is working"
     </div>
     <div id='sidebar'>
       cool stuff
